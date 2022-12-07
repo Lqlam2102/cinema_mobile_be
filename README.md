@@ -37,7 +37,7 @@
     py manage.py runserver
     ```
 
-- [Front-End](https://github.com/Lqlam2102/cinema_app_react-native) make with React Native
+- DEMO [Front-End](https://github.com/Lqlam2102/cinema_app_react-native) make with React Native
 
 
 ## 📝 License
