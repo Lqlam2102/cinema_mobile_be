@@ -3,7 +3,7 @@
 - Make sure you have [Xampp](https://www.apachefriends.org/) installed (`Xampp` is shipped by default since xamp `8.15`)
 - Create Database on `Xamp` `Php Admin` `MySql` with name "cinema"
 - Check the connection.
-- Make sure you have [Python](https://www.python.org/) (require version 3.1+, in my project use)
+- Make sure you have [Python](https://www.python.org/) (require version 3.1+, in my project using python 3.7)
 
 ## ✨ Installation/Demo Front End
 
