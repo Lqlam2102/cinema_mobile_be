@@ -15,11 +15,19 @@
    ```
    cd cinema_mobile_be
    ```
-3. Install module from requirements.txt
+3. Install enviroment for this project
+   ```sh
+   python -m venv env
+   ```
+4. Active enviroment
+   ```sh
+   .\env\Scripts\activate
+   ```
+5. Install module from requirements.txt
    ```sh
    pip install -r requirements.txt
    ```
-4. Migrate Models
+6. Migrate Models
    ```sh
    py manage.py makemigrations
    py manage.py migrate
